@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bored person xd
+I make Discord selfbots!
 
 
 # 💻 Tech Stack:
@@ -11,5 +11,3 @@ Bored person xd
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fuwu99&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
