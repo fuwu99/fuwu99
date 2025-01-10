@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello! I'm fuwu99, also known as vanta, and I develop selfbots that automate bots on Discord!
 
-* 🌍  I'm based in Melbourne, Australia
-* ✉️  You can contact me at [ysg12@proton.me](mailto:ysg12@proton.me)
-* 🧠  I'm learning C++, C#
+* 🌍  I'm based in Hanoi, Vietnam.
+* ✉️  You can contact me at [leqwoi@protonmail.com](leqwoi@protonmail.com)
+* 🧠  I'm learning NextJS/React
 * 🤝  I'm open to collaborating on selfbot collaboration projects
 
 <a href="https://www.github.com/fuwu99" target="_blank" rel="noreferrer"><img
